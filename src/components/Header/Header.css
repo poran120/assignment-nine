@@ -1,0 +1,15 @@
+.nav_container{
+    background: #f3eded;
+    margin: 0 220px;
+    padding: 20px 40px;
+}
+.nav_container a{
+
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    margin-left: 83px;
+}
+.nav_container a:hover{
+    color: red;
+}
