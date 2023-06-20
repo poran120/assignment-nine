@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="route_container">
       <Header></Header>
+      {/* <Dashboard></Dashboard> */}
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/home" element={<Home></Home>}></Route>
