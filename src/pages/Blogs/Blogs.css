@@ -1,0 +1,20 @@
+.question_container{
+    margin: 100px;
+}
+.question_container h3{
+    margin: 0px;
+    padding-left: 5px;
+}
+.question_container p{
+    margin: 0 0 15px 0;
+    padding-left: 5px;
+}
+.question_one{
+    border-left: 3px solid purple;
+}
+.question_two{
+    border-left: 3px solid purple;
+}
+.question_third{
+    border-left: 3px solid purple;
+}
