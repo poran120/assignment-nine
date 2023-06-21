@@ -11,7 +11,6 @@ About
 
 //Task
 1- In the in-home section we have to show dynamic products like Tshirt, Shoes, Watch, etc. 
-2- In the same section, we have to show 3 product reviews, and there had a button to go review section. 
 3- In the dashboard section we have to show 2 piecharts.
 4- There is no reload system if we are going route to route.
 5- Fixed Netlify 404 problem. 
